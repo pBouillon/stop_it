@@ -1,2 +1,2 @@
 # stop_it
-Have a breath !
+Pomodoro implementation
